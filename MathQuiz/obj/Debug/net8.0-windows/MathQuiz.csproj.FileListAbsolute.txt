@@ -1,0 +1,17 @@
+C:\Users\turcu\Documents\IX D\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.exe
+C:\Users\turcu\Documents\IX D\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.deps.json
+C:\Users\turcu\Documents\IX D\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.runtimeconfig.json
+C:\Users\turcu\Documents\IX D\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.dll
+C:\Users\turcu\Documents\IX D\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.pdb
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.Form1.resources
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.GenerateResource.cache
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfo.cs
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.sourcelink.json
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.dll
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\refint\MathQuiz.dll
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.pdb
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.genruntimeconfig.cache
+C:\Users\turcu\Documents\IX D\MathQuiz\obj\Debug\net8.0-windows\ref\MathQuiz.dll

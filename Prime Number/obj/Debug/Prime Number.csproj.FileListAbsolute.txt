@@ -1,0 +1,10 @@
+C:\Users\turcu\Documents\IX D\Prime Number\bin\Debug\Prime Number.exe.config
+C:\Users\turcu\Documents\IX D\Prime Number\bin\Debug\Prime Number.exe
+C:\Users\turcu\Documents\IX D\Prime Number\bin\Debug\Prime Number.pdb
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime Number.csproj.AssemblyReference.cache
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime_Number.PrimeNumberForm.resources
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime_Number.Properties.Resources.resources
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime Number.csproj.GenerateResource.cache
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime Number.exe
+C:\Users\turcu\Documents\IX D\Prime Number\obj\Debug\Prime Number.pdb
